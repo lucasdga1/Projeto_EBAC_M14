@@ -3,7 +3,19 @@
 
 * Requisitos: Ter uma plataforma de escrita em Python, Jupyter notebook ou executar no prompt de comando
 * Instalação: Copiar e colar o código; fazer o download da base de dados, executar o código
-* Uso: Manipulação da base de dados para fazer cálculos estatísticos, gerar gráficos e obter insights através dessas técnicas.
+* Uso: Tratamento e pré-processamento de uma base de dados para posterior manipulação e análise.
+
+
+<a href="https://github.com/lucasdga1/Projeto_EBAC_M14/blob/main/CHURN_PROJETO_MOD14.csv">Base de dados</a>
+
+
+<a href="https://github.com/lucasdga1/Projeto_EBAC_M14/blob/main/Projeto_M14.ipynb">Projeto resolvido</a>
+
+## Gráficos usados
+<img width="762" height="497" alt="Lab_01" src="https://github.com/user-attachments/assets/4dfc131e-35c3-4045-926e-4f116c254185" />
+
+
+<img width="731" height="537" alt="Lab_02" src="https://github.com/user-attachments/assets/33009595-dc21-457b-b9f1-a1769b6d4c9b" />
 
 
 
